@@ -79,6 +79,14 @@
   position: relative;
 }
 
+.search-button:hover,
+.voice-search-button:hover,
+.upload-icon-container:hover,
+.youtube-apps-icon-container:hover,
+.notifications-icon-container:hover {
+  cursor: pointer;
+}
+
 .search-button .tooltip,
 .voice-search-button .tooltip,
 .upload-icon-container .tooltip,
